@@ -30,4 +30,3 @@ while True:
         trial+=1
         print("{x} cows, {y} bulls. (Trial number {z})".format(x=score[0],y=score[1],z=trial))
         usr = getinput("Guess again. ")
-
