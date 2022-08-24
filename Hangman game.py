@@ -29,7 +29,6 @@ while True:
     #number of incorrect guesses so far
     c=0
 
-
     while c<6:
         guess = input("Guess a letter:").capitalize()
 
